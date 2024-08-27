@@ -116,7 +116,7 @@ I’m passionate about developing innovative software solutions and am dedicated
 
 - 📫 How to reach me >>> **daham2096@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Say Hello to me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mahesh-dahampath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahesh-dahampath" height="30" width="40" /></a>
 <a href="https://fb.com/mahesh.dahampath.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahesh.dahampath.9" height="30" width="40" /></a>
