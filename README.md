@@ -13,7 +13,7 @@
 
 
 <img align="right" top="500" height="300" width="400" alt="GIF" src="https://i.postimg.cc/vBzfvwGC/2842680.jpg">
-INTRODUCTION
+<b>INTRODUCTION</b>
 <br/>
 <br/>
 I’m passionate about developing innovative software solutions and am dedicated to continually enhancing my skills through self-study and practical experience. My journey in software development is driven by curiosity and a strong desire to tackle real-world problems.
@@ -32,8 +32,7 @@ I’m passionate about developing innovative software solutions and am dedicated
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
-  
-  ABOUT ME
+ <b>ABOUT ME</b>
 
 - 🚀 I’m Mahesh Dahampath, a recent 1st class graduate with a BSc in Computer Science from the Open University of Sri Lanka.
     
@@ -62,7 +61,7 @@ I’m passionate about developing innovative software solutions and am dedicated
   <img  align="center"  src="https://i.postimg.cc/wjnDFkLc/4882464.jpg"/>
 
 <td width="50%" align="left">
-  MY SKILL SET
+  <b>MY SKILL SET</b>
 
 - 💻 Basic Programming Fundamentals: Proficient in C language fundamentals.
 - 🔍 Data Structures and Algorithms: Experienced in implementing and optimizing algorithms using C.
@@ -81,7 +80,37 @@ I’m passionate about developing innovative software solutions and am dedicated
   </td>
 </tr>
 </table>
-</p>        
+</p>  
+
+<br/>
+<br/>
+<br/>
+
+<table align="center">
+    <thead>
+        <tr>
+            <th colspan="4"><b align="center">My Projects</b></th>
+        </tr>
+        <tr>
+            <th><i>Project Name</i></th>
+            <th><i>Task</i></th>
+            <th><i>Description</i></th>
+            <th><i>Frameworks & Languages</i></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>LearnList</td>
+            <td>Study Task Manager (Web Application)</td>
+            <td> To do list application designed to help users organize and track their study tasks effectively</td>
+            <td> React.JS, HTML, CSS, JS, Bootstrap</td>
+        </tr>
+    </tbody>
+</table>
+
+<br/>
+<br/>
+<br/>
 
 - 🌱 I’m currently learning about **MERN**, Python and Flutter 
 
