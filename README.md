@@ -13,11 +13,10 @@
 
 
 <img align="right" top="500" height="300" width="400" alt="GIF" src="https://i.postimg.cc/vBzfvwGC/2842680.jpg">
-
+INTRODUCTION
+<br/>
+<br/>
 I’m a recent graduate with a BSc in Computer Science, having earned a first-class degree with a GPA of 3.77. I’m passionate about developing innovative software solutions and am dedicated to continually enhancing my skills through self-study and practical experience. My journey in software development is driven by curiosity and a strong desire to tackle real-world problems.
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
@@ -30,18 +29,17 @@ I’m a recent graduate with a BSc in Computer Science, having earned a first-cl
 
 
 <p align="center">
-  <!--- stats (start) -->
 <table align="center">
 <tr border="none">
-<td width="50%" align="center">
+<td width="50%" align="left">
   
-  About Me
+  ABOUT ME
 
 - 🚀 I’m Mahesh Dahampath, a recent graduate with a BSc in Computer Science from the Open University of Sri Lanka.
 
-- 💡 My journey in technology began with a deep interest in how software can bring ideas to life. Over the years, I have developed proficiency in various programming languages, including Java, C, Prolog, MySQL, C++, PHP, HTML, CSS and JavaScript.
+- 💡 My journey in technology began with a deep interest in how software can bring ideas to life. Over the years, I have studied various programming languages, including Java, C, Prolog, MySQL, C++, PHP, HTML, CSS and JavaScript.
 
-- 🔧 I have hands-on experience with web development frameworks such as React, along with backend technologies like Node.js
+- 🔧 I have hands-on experience with React web application development with TailwindCSS.
 
 - 🌐 My professional interests include web application development, data analysis and mobile app development.
 
@@ -52,9 +50,33 @@ I’m a recent graduate with a BSc in Computer Science, having earned a first-cl
   </td>
 </tr>
 </table>
-<!--- stats (end) -->
 </p>        
+<br/>
+<br/>
+<br/>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
+  MY SKILL SET
 
+- 🚀 I’m Mahesh Dahampath, a recent graduate with a BSc in Computer Science from the Open University of Sri Lanka.
+
+- 💡 My journey in technology began with a deep interest in how software can bring ideas to life. Over the years, I have developed proficiency in various programming languages, including Java, C, Prolog, MySQL, C++, PHP, HTML, CSS and JavaScript.
+
+- 🔧 I have hands-on experience with web development frameworks such as React along with backend technologies like Node.js
+
+- 🌐 My professional interests include web application development, data analysis and mobile app development.
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://i.postimg.cc/28zbxKJf/4091286.jpg"/>
+  
+  </td>
+</tr>
+</table>
+</p>        
 
 - 🌱 I’m currently learning **MERN**
 
