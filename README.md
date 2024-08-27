@@ -16,7 +16,7 @@
 INTRODUCTION
 <br/>
 <br/>
-I’m a recent graduate with a BSc in Computer Science, having earned a first-class degree with a GPA of 3.77. I’m passionate about developing innovative software solutions and am dedicated to continually enhancing my skills through self-study and practical experience. My journey in software development is driven by curiosity and a strong desire to tackle real-world problems.
+I’m passionate about developing innovative software solutions and am dedicated to continually enhancing my skills through self-study and practical experience. My journey in software development is driven by curiosity and a strong desire to tackle real-world problems.
 <br/>
 <br/>
 <br/>
@@ -35,8 +35,8 @@ I’m a recent graduate with a BSc in Computer Science, having earned a first-cl
   
   ABOUT ME
 
-- 🚀 I’m Mahesh Dahampath, a recent graduate with a BSc in Computer Science from the Open University of Sri Lanka.
-
+- 🚀 I’m Mahesh Dahampath, a recent 1st class graduate with a BSc in Computer Science from the Open University of Sri Lanka.
+    
 - 💡 My journey in technology began with a deep interest in how software can bring ideas to life. Over the years, I have studied various programming languages, including Java, C, Prolog, MySQL, C++, PHP, HTML, CSS and JavaScript.
 
 - 🔧 I have hands-on experience with React web application development with TailwindCSS.
@@ -57,28 +57,33 @@ I’m a recent graduate with a BSc in Computer Science, having earned a first-cl
 <p align="center">
 <table align="center">
 <tr border="none">
-<td width="50%" align="left">
+<td width="50%" align="center">
   
+  <img  align="center"  src="https://i.postimg.cc/wjnDFkLc/4882464.jpg"/>
+
+<td width="50%" align="left">
   MY SKILL SET
 
-- 🚀 I’m Mahesh Dahampath, a recent graduate with a BSc in Computer Science from the Open University of Sri Lanka.
-
-- 💡 My journey in technology began with a deep interest in how software can bring ideas to life. Over the years, I have developed proficiency in various programming languages, including Java, C, Prolog, MySQL, C++, PHP, HTML, CSS and JavaScript.
-
-- 🔧 I have hands-on experience with web development frameworks such as React along with backend technologies like Node.js
-
-- 🌐 My professional interests include web application development, data analysis and mobile app development.
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://i.postimg.cc/28zbxKJf/4091286.jpg"/>
+- 💻 Basic Programming Fundamentals: Proficient in C language fundamentals.
+- 🔍 Data Structures and Algorithms: Experienced in implementing and optimizing algorithms using C.
+- 🗃️ Database Management: Knowledgeable in MySQL for effective data handling and management.
+- ☕ Object-Oriented Programming (OOP): Skilled in Java for designing and implementing object-oriented solutions.
+- 🌐 Networks: Understanding of network concepts using Packet Tracer.
+- 🛠️ Software Design Techniques: Familiar with various methodologies for effective software design.
+- 🎨 Computer Graphics: Experience in creating graphics with OpenGL using C++.
+- 🧩 Digital Electronics: Practical knowledge of electronics design with TinkerCAD.
+- 📊 Management Information Systems: Understanding of MIS principles and applications.
+- 🌍 Web Application Development: Proficient in developing robust web applications.
+- 🤖 Artificial Intelligence (AI): Experience with AI concepts using Prolog.
+- 🧮 Mathematical Modeling: Skilled in using MATLAB for mathematical modeling and analysis.
+- 📈 Linear Programming & Statistical Analysis: Knowledgeable in linear programming, statistical distribution, design analysis, and inference methods for data analysis.
   
   </td>
 </tr>
 </table>
 </p>        
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning about **MERN**, Python and Flutter 
 
 - 📫 How to reach me >>> **daham2096@gmail.com**
 
